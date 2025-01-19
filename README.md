@@ -31,4 +31,3 @@ author = {Alex Yu},
 year = {2024},
 url = {https://github.com/alexyujiuqiao/FinNER-Data-Aug}
 }
-```
