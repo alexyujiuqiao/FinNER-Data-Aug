@@ -21,6 +21,8 @@ This project focuses on enhancing financial text datasets through data augmentat
 ```bash
 git clone https://github.com/yourusername/FinNER-Data-Aug.git
 cd FinNER-Data-Aug
+```
+
 
 ```bibtex
 @software{finner_data_aug,
@@ -29,3 +31,4 @@ author = {Alex Yu},
 year = {2024},
 url = {https://github.com/alexyujiuqiao/FinNER-Data-Aug}
 }
+```
