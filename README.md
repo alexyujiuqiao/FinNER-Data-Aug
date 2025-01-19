@@ -4,7 +4,8 @@ A data augmentation toolkit for Financial Named Entity Recognition (NER) tasks.
 
 ## Overview
 
-This project focuses on enhancing financial text datasets through data augmentation techniques to improve Named Entity Recognition models in the financial domain. The toolkit is designed to work with multiple financial domain models including FinBERT, SECBERT, and CNN-BiLSTM architectures.
+This study aims to develop a specialized Named Entity Recognition (NER) system tailored to financial documents. By employing a CNN-BiLSTM-CRF model
+and applying FinBERT to augment data through contextual synonym replacement, our system can effectively identify key financial entities. Additionally, we demonstrate that CNN-BiLSTM-CRF model alone, when properly fine-tuned and data augmented, achieves robust performance and outperforms transformer-based models like SecBERT and BERT-Base-NER in financial NER tasks. Our experiment results indicate that the FinBERT-driven data augmentation approach significantly improves entity recognition accuracy in financial texts, providing a reliable and efficient alternative to more computationally intensive models.
 
 ## Features
 
