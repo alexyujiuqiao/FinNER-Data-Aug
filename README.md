@@ -18,11 +18,11 @@ This project focuses on enhancing financial text datasets through data augmentat
   - CNN-BiLSTM: Hybrid architecture combining CNN and BiLSTM for financial NER
 
 ## Installation
-bash
+```bash
 git clone https://github.com/yourusername/FinNER-Data-Aug.git
 cd FinNER-Data-Aug
 
-bibtex
+```bibtex
 @software{finner_data_aug,
 title = {FinNER-Data-Aug: A Data Augmentation Toolkit for Financial NER},
 author = {Alex Yu},
